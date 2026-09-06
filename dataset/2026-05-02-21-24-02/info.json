@@ -2,10 +2,7 @@
   "instruction": "Select all squares with\nstairs\nIf there are none, click skip",
   "keyword": "stairs",
   "correct_answers": [
-    6,
-    7,
     10,
-    11,
     14,
     15
   ]

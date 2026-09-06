@@ -2,8 +2,11 @@
   "instruction": "Select all squares with\nbicycles",
   "keyword": "bicycles",
   "correct_answers": [
+    8,
     10,
+    12,
     13,
-    14
+    14,
+    15
   ]
 }
