@@ -2,6 +2,7 @@
   "instruction": "Select all squares with\ntraffic lights\nIf there are none, click skip",
   "keyword": "traffic lights",
   "correct_answers": [
-    9
+    9,
+    13
   ]
 }

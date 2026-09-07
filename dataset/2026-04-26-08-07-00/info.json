@@ -2,6 +2,8 @@
   "instruction": "Select all squares with\nbicycles\nIf there are none, click skip",
   "keyword": "bicycles",
   "correct_answers": [
+    0,
+    2,
     6,
     7,
     9,
