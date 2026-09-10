@@ -2,9 +2,11 @@
   "instruction": "Select all squares with\nmotorcycles\nIf there are none, click skip",
   "keyword": "motorcycles",
   "correct_answers": [
+    6,
     10,
     11,
     13,
-    14
+    14,
+    15
   ]
 }
